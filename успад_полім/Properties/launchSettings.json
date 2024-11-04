@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "успад_полім": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
